@@ -3,17 +3,15 @@ meg-synergy
 ===========
 
 
-This package combines all MEG open dataset (OMEGA, HCP, CAMCAN, MGH) in single framework
+This package combines all MEG open dataset (OMEGA, HCP, CAMCAN, MGH) in single framework.
 
 
 Description
 ===========
 
-A LONGER DESCRIPTION OF YOUR PROJECT GOES HERE...
-
+The aim of this project to provide common api to all open MEG resting data sets and provide tools based upon mne-python, mne-camcan and mne-hcp to seamlessly analyze these datasets.
 
 Note
 ====
 
-This project has been set up using PyScaffold 2.5.6. For details and usage
-information on PyScaffold see http://pyscaffold.readthedocs.org/.
+Please visit http://sheraz.mit.edu for updates.
